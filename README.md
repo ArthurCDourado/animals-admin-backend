@@ -1,5 +1,3 @@
-# animals-admin-backend
-
 # Projeto de Gerencimanto de Pets utilizando Java com Spring e Swagger
 
 Este é um projeto de exemplo para demonstrar como configurar e utilizar o Spring Framework junto com Swagger para documentação de APIs.
