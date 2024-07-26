@@ -15,8 +15,10 @@ Este é um projeto de exemplo para demonstrar como configurar e utilizar o Sprin
 
 ### Clonando o Repositório
 
-```bash
+bash
+
 git clone https://github.com/seu-usuario/seu-repositorio.git
+
 cd seu-repositorio
 
 ### Compilando e Executando o Projeto
@@ -24,7 +26,7 @@ cd seu-repositorio
 1. Navegue até o diretório do projeto.
 2. Compile o projeto usando Maven:
 
-mvn clean install
+```mvn clean install```
 
 3. Execute o projeto
 
@@ -37,6 +39,6 @@ Swagger é utilizado para gerar a documentação da API automaticamente. Para ac
 1. Certifique-se de que a aplicação está em execução.
 2. Abra o navegador e acesse a URL:
 
-http://localhost:8080/swagger-ui.html
+```http://localhost:8080/swagger-ui.html```
 
 Obrigado!
