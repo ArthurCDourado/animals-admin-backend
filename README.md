@@ -19,30 +19,23 @@ Este é um projeto de exemplo para demonstrar como configurar e utilizar o Sprin
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 
-Compilando e Executando o Projeto
+### Compilando e Executando o Projeto
 
-    Navegue até o diretório do projeto.
-    Compile o projeto usando Maven:
-
-bash
+1. Navegue até o diretório do projeto.
+2. Compile o projeto usando Maven:
 
 mvn clean install
 
-    Execute o projeto:
-
-bash
-
-mvn spring-boot:run
+3. Execute o projeto
 
 A aplicação estará disponível em http://localhost:8080.
+
 Documentação da API
 
 Swagger é utilizado para gerar a documentação da API automaticamente. Para acessar a documentação da API, siga os passos abaixo:
 
-    Certifique-se de que a aplicação está em execução.
-    Abra o navegador e acesse a URL:
-
-bash
+1. Certifique-se de que a aplicação está em execução.
+2. Abra o navegador e acesse a URL:
 
 http://localhost:8080/swagger-ui.html
 
